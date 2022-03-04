@@ -58,7 +58,67 @@ span{
 }
 
 
+.parent6
+{
+    background-color: #1d1d1d;
+    overflow:auto;
+}
+.parent6 .parent6-item
+{
+    padding: 40px;
+    text-align: center;
+    
+}
+.parent6 .parent6-item h2
+{
+    color: white;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.parent6 .parent6-item p
+{
+    font-size: 16px;
+    line-height: 2;
+    color: #999;
+}
+.parent6 .row .card
+{
+    background-color:  #1a1a1a;
+}
+.parent6 .row .card h5 
+{
+    color: white;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.parent6 .row .card p 
+{
+    font-size: 16px;
+    line-height: 2;
+    color: #999;
+}
+.parent6 .row .card a
+{
+    color: white;
+    font-size: 18px;
+    text-transform: capitalize;
 
+}
+.parent6 .icon{
+    margin-top: 50px;
+    margin-bottom: 50px;
+ 
+    
+}
+.parent6 .icon .btn
+{
+    background-color: #292929;
+    text-transform: capitalize;
+    color: white;
+    font-size: 20px;
+    
+    padding: 10px 30px;
+}
 
 
   
